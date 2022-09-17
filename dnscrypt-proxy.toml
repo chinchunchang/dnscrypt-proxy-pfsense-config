@@ -525,7 +525,7 @@ blocked_names_file = 'dnscrypt-blacklist-domains.txt'
 
 ## Optional path to a file logging blocked queries
 
-log_file = '/var/log/dnscrypt-proxy/dnscrypt-blacklist-domains.log'
+#log_file = '/var/log/dnscrypt-proxy/dnscrypt-blacklist-domains.log'
 
 
 ## Optional log format: tsv or ltsv (default: tsv)
@@ -553,7 +553,7 @@ blocked_ips_file = 'dnscrypt-blacklist-ips.txt'
 
 ## Optional path to a file logging blocked queries
 
-log_file = '/var/log/dnscrypt-proxy/dnscrypt-blacklist-ips.log'
+#log_file = '/var/log/dnscrypt-proxy/dnscrypt-blacklist-ips.log'
 
 
 ## Optional log format: tsv or ltsv (default: tsv)
@@ -581,7 +581,7 @@ allowed_ips_file = 'dnscrypt-whitelist-domains.txt'
 
 ## Optional path to a file logging allowed queries
 
-log_file = '/var/log/dnscrypt-proxy/dnscrypt-whitelisted-domains.log'
+#log_file = '/var/log/dnscrypt-proxy/dnscrypt-whitelisted-domains.log'
 
 
 ## Optional log format: tsv or ltsv (default: tsv)
@@ -609,7 +609,7 @@ allowed_ips_file = 'dnscrypt-whitelist-ips.txt'
 
 ## Optional path to a file logging allowed queries
 
-log_file = '/var/log/dnscrypt-proxy/dnscrypt-whitelisted-ips.log'
+#log_file = '/var/log/dnscrypt-proxy/dnscrypt-whitelisted-ips.log'
 
 ## Optional log format: tsv or ltsv (default: tsv)
 
